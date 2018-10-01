@@ -1,5 +1,6 @@
 // Solution for Lab 01
 #include <iostream>
+//Its fawking rawwww mateee!
 #include <string>
 using namespace std;
 
@@ -19,3 +20,5 @@ int main()
    BMI = height * 703 / (weight * weight);
    cout << name << "'s BMI is " << BMI << endl;
 }
+
+using namespace std;
